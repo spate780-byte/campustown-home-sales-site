@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "qualifying_sales": 3009,
+    "median_sale_price": 572000
+  },
+  {
+    "city": "Athens",
+    "state": "GA",
+    "qualifying_sales": 2809,
+    "median_sale_price": 370000
+  },
+  {
+    "city": "Carrboro",
+    "state": "NC",
+    "qualifying_sales": 205,
+    "median_sale_price": 605000
+  },
+  {
+    "city": "Champaign",
+    "state": "IL",
+    "qualifying_sales": 2285,
+    "median_sale_price": 240000
+  },
+  {
+    "city": "Chapel Hill",
+    "state": "NC",
+    "qualifying_sales": 2713,
+    "median_sale_price": 735000
+  },
+  {
+    "city": "Charlottesville",
+    "state": "VA",
+    "qualifying_sales": 2774,
+    "median_sale_price": 615000.0
+  },
+  {
+    "city": "Davis",
+    "state": "CA",
+    "qualifying_sales": 941,
+    "median_sale_price": 889000
+  },
+  {
+    "city": "Gainesville",
+    "state": "FL",
+    "qualifying_sales": 5469,
+    "median_sale_price": 350000
+  },
+  {
+    "city": "Iowa City",
+    "state": "IA",
+    "qualifying_sales": 1909,
+    "median_sale_price": 342000
+  },
+  {
+    "city": "Lafayette",
+    "state": "IN",
+    "qualifying_sales": 3053,
+    "median_sale_price": 260000
+  },
+  {
+    "city": "Madison",
+    "state": "WI",
+    "qualifying_sales": 5061,
+    "median_sale_price": 421000
+  },
+  {
+    "city": "Middleton",
+    "state": "WI",
+    "qualifying_sales": 645,
+    "median_sale_price": 611000
+  },
+  {
+    "city": "Newberry",
+    "state": "FL",
+    "qualifying_sales": 152,
+    "median_sale_price": 439995.0
+  },
+  {
+    "city": "Pittsboro",
+    "state": "NC",
+    "qualifying_sales": 92,
+    "median_sale_price": 876985.5
+  },
+  {
+    "city": "Savoy",
+    "state": "IL",
+    "qualifying_sales": 247,
+    "median_sale_price": 402700
+  },
+  {
+    "city": "State College",
+    "state": "PA",
+    "qualifying_sales": 1348,
+    "median_sale_price": 430000.0
+  },
+  {
+    "city": "Urbana",
+    "state": "IL",
+    "qualifying_sales": 1131,
+    "median_sale_price": 229900
+  },
+  {
+    "city": "West Lafayette",
+    "state": "IN",
+    "qualifying_sales": 1559,
+    "median_sale_price": 379900
+  }
+]

@@ -1,4 +1,4 @@
-# [Your site's title]
+# College-town home sale prices
 
 ## Start here (delete this section before you submit)
 
@@ -28,7 +28,7 @@ Don't edit any of the five dataset files. Your site needs only the CSV file. The
 
 ## What this site is for
 
-_Replace this line with your site's question and audience, or a short description of the site._
+This site shows the median sale price for each city in the college-town home sales dataset.
 
 ## Live site
 
@@ -36,11 +36,14 @@ https://your-username.github.io/your-repo-name/
 
 ## Data notes
 
-_Replace this line. Say which rows you left out and why, and how each figure on the site is defined. "Five things that will bite you" in the description sheet lists the problems to cover._
+Sales under $10,000 are excluded because the data description identifies them as implausible.
+The summary in `data/city_median_sale_prices.json` is generated from the CSV with
+`python scripts/make_city_median_prices.py`; each median is computed from all qualifying
+`sale_price` values for that city and state.
 
 ## Tools we used
 
-_Replace this line with your AI coding agent or agents, and any libraries and other tools you used._
+Plain HTML, CSS and JavaScript, plus the Python standard library to generate the summary file.
 
 ## Citation
 
